@@ -15,6 +15,35 @@ HTML5
 CSS3
 JavaScript (DOM, Events, Audio API)
 
+
+Folder Structure:
+
+Drum-Kit/
+│
+├── index.html
+├── styles.css
+├── index.js
+│
+├── images/
+│   ├── crash.png
+│   ├── kick.png
+│   ├── snare.png
+│   ├── tom1.png
+│   ├── tom2.png
+│   ├── tom3.png
+│   └── tom4.png
+│
+└── sounds/
+    ├── crash.mp3
+    ├── kick-bass.mp3
+    ├── snare.mp3
+    ├── tom-1.mp3
+    ├── tom-2.mp3
+    ├── tom-3.mp3
+    └── tom-4.mp3
+
+
+
 🚀 How to Use
 Open the website in your browser.
 Click on any drum button or press its matching key:
